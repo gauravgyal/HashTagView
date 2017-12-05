@@ -1,1 +1,1 @@
-include ':app', ':hashtagtextview'
+include ':app', ':HashTagTextView'

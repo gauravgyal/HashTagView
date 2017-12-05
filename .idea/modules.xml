@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HashTagTextView/hashtagtextview.iml" filepath="$PROJECT_DIR$/HashTagTextView/hashtagtextview.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTagView.iml" filepath="$PROJECT_DIR$/HashTagView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hashtagtextview/hashtagtextview.iml" filepath="$PROJECT_DIR$/hashtagtextview/hashtagtextview.iml" />
     </modules>
   </component>
 </project>
