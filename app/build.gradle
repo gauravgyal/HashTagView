@@ -9,7 +9,7 @@ apply plugin: 'kotlin-android-extensions'
 
 apply plugin: 'maven'
 
-group = 'com.vogella.libraries'
+group = 'com.gauravgyal.libraries'
 version = '1.0'
 
 uploadArchives {
